@@ -28,7 +28,7 @@ public class HW3_1 {
                 default:
 
                     if (trying < 2){
-                    System.out.println("Please try again");
+                    System.out.println("Think again");
                     System.out.println(question);
                         trying++;
 
